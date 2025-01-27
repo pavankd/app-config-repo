@@ -1,4 +1,5 @@
-message:Welcome to config server school service
+app:
+  message:Welcome to config server school service
 
 Spring:
   datasource:
