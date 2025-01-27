@@ -1,5 +1,5 @@
-welcome:
-  message:Welcome to config server school service
+message:Welcome to config server school service
+
 Spring:
   datasource:
     driver-class-name: org.postgresql.Driver
